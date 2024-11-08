@@ -1,0 +1,11 @@
+# Ignore data files and outputs
+data/raw/
+results/plots/
+results/reports/
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+.env/
+
